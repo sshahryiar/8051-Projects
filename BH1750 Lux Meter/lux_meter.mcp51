@@ -1,0 +1,53 @@
+[DEVICE]
+Name=AT89S51
+Clock=20000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=lux_meter.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[PLL_FACTOR]
+Value=1
+[FILES]
+Count=1
+File0=lux_meter.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=2
+File0=lux_meter.c
+File1=bh1750.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\Uses\ATMEL\
+Path2=C:\Users\Shawon&Nipa\Desktop\Lux Meter\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=4
+File0=Software_I2C
+File1=Lcd
+File2=Lcd_Constants
+File3=Conversions
+[EXPANDED NODES]
+Node1=Sources
+Count=1
