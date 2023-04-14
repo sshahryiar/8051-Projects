@@ -1,0 +1,53 @@
+[DEVICE]
+Name=AT89S52
+Clock=11059200
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=LED_Compass.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[PLL_FACTOR]
+Value=1
+[FILES]
+Count=1
+File0=LED_Compass.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=LED_Compass.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\defs\
+Path1=C:\Users\Shawon\Desktop\LED Compass\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\Uses\ATMEL\
+[HEADER_PATH]
+Count=1
+Path0=C:\Users\Shawon\Desktop\LED Compass\
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=4
+File0=Lcd
+File1=Lcd_Constants
+File2=Software_I2C
+File3=C_Math
+[EXPANDED NODES]
+Node1=Sources
+Count=1
