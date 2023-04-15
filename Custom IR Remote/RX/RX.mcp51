@@ -1,0 +1,59 @@
+[DEVICE]
+Name=AT89S52
+Clock=11059200
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=RX.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[PLL_FACTOR]
+Value=1
+[FILES]
+Count=1
+File0=RX.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=RX.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=9
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\defs\
+Path1=C:\Users\Shawon & Nipa\Desktop\Custom IR Remote\RX\
+Path2=C:\Users\Shawon & Nipa\Desktop\Sharp IR Remote\RX\
+Path3=C:\Users\Shawon\Desktop\Sharp IR Remote\RX\
+Path4=C:\Users\Shawon & Nipa\Desktop\Sony IR Remote\RX\
+Path5=C:\Users\Shawon\Desktop\Sony IR Remote\RX\
+Path6=C:\Users\Shawon & Nipa\Desktop\NEC IR Remote\RX\
+Path7=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\Uses\ATMEL\
+Path8=C:\Users\Shawon\Desktop\NEC IR Remote\RX\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=4
+File0=Lcd
+File1=Lcd_Constants
+File2=Conversions
+File3=C_String
+[EXPANDED NODES]
+Node1=Sources
+Node2=Output Files
+Count=2
